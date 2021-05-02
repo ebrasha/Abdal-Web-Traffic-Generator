@@ -1,0 +1,52 @@
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\ChilkatDotNet47.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.GridView.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.Breeze.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.Crystal.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.Desert.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.FluentDark.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.MaterialBlueGrey.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.Office2013Dark.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.TelerikMetro.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TelerikCommon.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXBarcode.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXBarcode.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDocumentServer.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDocumentServer.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDrawing.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDrawing.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXImageProvider.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXTextControl.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXTextControl.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXTextControl.Server.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.GridView.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXBarcode.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXBarcode.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDocumentServer.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDocumentServer.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDrawing.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXDrawing.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXTextControl.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXTextControl.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\TXTextControl.Server.xml
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\de\TXBarcode.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\de\TXDocumentServer.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\de\TXDrawing.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\de\TXTextControl.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal HTTP Debugger.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Abdal_AES_Encryption.resources
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal HTTP Debugger.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal HTTP Debugger.csproj.CopyComplete
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Abdal HTTP Debugger.exe.config
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Abdal HTTP Debugger.exe
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\bin\Release\Abdal HTTP Debugger.pdb
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal_HTTP_Debugger.Properties.Resources.resources
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal HTTP Debugger.exe.licenses
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal HTTP Debugger.exe
+C:\Users\Windows\source\repos\enc\Abdal HTTP Debugger\Abdal Security Group App\obj\Release\Abdal HTTP Debugger.pdb

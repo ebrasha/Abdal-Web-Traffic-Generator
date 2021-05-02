@@ -1,0 +1,86 @@
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\ChilkatDotNet47.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TelerikCommon.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.Windows.Forms.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.Windows.Forms.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.Windows.Forms.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXImageProvider.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Windows.Forms.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Server.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.Windows.Forms.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.Windows.Forms.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.Windows.Forms.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Windows.Forms.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Server.xml
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXBarcode.resources.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXDocumentServer.resources.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXDrawing.resources.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXTextControl.resources.dll
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.csprojAssemblyReference.cache
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Abdal_2Key_Triple_DES_Builder.resources
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Properties.Resources.resources
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.csproj.GenerateResource.cache
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.csproj.CopyComplete
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Abdal 2-Key Triple DES Builder.exe.config
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Abdal 2-Key Triple DES Builder.exe
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Abdal 2-Key Triple DES Builder.pdb
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.exe.licenses
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.exe
+C:\Users\Windows\Desktop\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.pdb
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Abdal 2-Key Triple DES Builder.exe.config
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Abdal 2-Key Triple DES Builder.exe
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Abdal 2-Key Triple DES Builder.pdb
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\ChilkatDotNet47.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.Themes.VisualStudio2012Dark.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TelerikCommon.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXImageProvider.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Windows.Forms.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Server.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.RichTextEditor.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\Telerik.WinControls.UI.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXBarcode.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDocumentServer.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXDrawing.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Windows.Forms.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\TXTextControl.Server.xml
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXBarcode.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXDocumentServer.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXDrawing.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\bin\Release\de\TXTextControl.resources.dll
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.csprojAssemblyReference.cache
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Abdal_2Key_Triple_DES_Builder.resources
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal_Security_Group_App.Properties.Resources.resources
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.csproj.GenerateResource.cache
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.exe.licenses
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.csproj.CopyComplete
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.exe
+C:\Users\Windows\source\repos\enc\Abdal 2-Key Triple DES Builder\Abdal Security Group App\obj\Release\Abdal 2-Key Triple DES Builder.pdb

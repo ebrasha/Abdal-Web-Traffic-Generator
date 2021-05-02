@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abdal Web Traffic Generator", "Abdal Security Group App\Abdal Web Traffic Generator.csproj", "{3FCEC922-6A9D-402F-B0FB-2EAB7CCEB570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3FCEC922-6A9D-402F-B0FB-2EAB7CCEB570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3FCEC922-6A9D-402F-B0FB-2EAB7CCEB570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3FCEC922-6A9D-402F-B0FB-2EAB7CCEB570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3FCEC922-6A9D-402F-B0FB-2EAB7CCEB570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3EF325D7-AE23-4F7D-B473-F9123C1BE9F9}
+	EndGlobalSection
+EndGlobal

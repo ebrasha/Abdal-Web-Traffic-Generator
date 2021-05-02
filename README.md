@@ -40,5 +40,5 @@ Ebrahim Shafiei (EbraSha) (Ready to cooperate with international projects)
 
 
 ## License
-Abdal SSH BruteForce is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
+Abdal Web Traffic Generator is open-source software licensed under the [MIT license.](https://choosealicense.com/licenses/mit/)
 

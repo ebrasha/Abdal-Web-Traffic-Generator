@@ -1,6 +1,17 @@
 # Abdal Web Traffic Generator
 
 
+[![Download  Abdal Web Traffic Generator](https://img.shields.io/sourceforge/dt/abdal-web-traffic-generator.svg)](https://sourceforge.net/projects/abdal-web-traffic-generator/files/latest/download)
+
+
+[![Download  Abdal Web Traffic Generator](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/abdal-web-traffic-generator/files/latest/download)
+
+
+## Screenshot
+
+![](Abdal_Web_Traffic_Generator.jpg)
+![](https://github.com/abdal-security-group/Abdal-Web-Traffic-Generator/blob/main/img/Abdal_Web_Traffic_Generator.jpg)
+
 ## Made For 
 
 This tool will have the ability to create useful statistics and traffic on your site and actually help rank your statistics on sites like Alexa and so on.
